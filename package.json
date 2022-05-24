@@ -1,0 +1,15 @@
+{
+  "name": "weatherapp",
+  "version": "1.0.0",
+  "description": "Creating a Weather NodeJS App",
+  "main": "index.js",
+  "scripts": {
+    "start":"node index3.js"
+  },
+  "author": "Utsav Taliyan",
+  "license": "ISC",
+  "dependencies": {
+    "nodejs": "^0.0.0",
+    "requests": "^0.3.0"
+  }
+}
